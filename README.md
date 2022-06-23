@@ -1,8 +1,7 @@
-# I'm Egor!
-## About me
+## Hello, I'm Egor! Full Stack developer.
+### About me
 Completed degree in mechanical engineering and automation, but decided to switch to IT. Did extensive elective coursework in computer science and programming.
-Full Stack development turned out to be quite a fun domain, which I currently study and work on daily.
-## Technologies & Languages I use
+Full Stack development turned out to be quite a fun domain, which I currently study and work on daily. Here are the technologies and languages I use.
 ### Frontend design
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
