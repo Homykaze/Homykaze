@@ -1,17 +1,16 @@
 ## Hello, I'm Egor! Full Stack developer.
 ### About me
 Completed degree in mechanical engineering and automation, but decided to switch to IT. Did extensive elective coursework in computer science and programming.
-Full Stack development turned out to be quite a fun domain, which I currently study and work on daily. Here are the technologies and languages I use.
-### Frontend design
+Full Stack development turned out to be quite a fun domain, which I currently study and work on daily. **Here are the technologies and languages I use:**
+### Frontend design & programming
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
 ![SASS](images/sass.png)
 ![Bootstrap](images/bootstrap.png)
-
-### Frontend programming
+>
 ![JavaScript](images/js.png)
-![React.js](images/react.png)
 ![TypeSctipt](images/ts.png)
+![React.js](images/react.png)
 ![Redux.js](images/redux.png)
 
 ### Backend development
@@ -19,17 +18,16 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 ![PostgreSQL](images/sql.png)
 ![Docker](images/docker.png)
 
-### Software development
-![C++](images/cpp.png)
+### Software development & Robotics
 ![C](images/c.png)
+![C++](images/cpp.png)
 ![OpenGL](images/opengl.png)
-
-### Hardware development & Robotics
+>
 ![Arduino](images/arduino.png)
 ![Pascal](images/pascal.png)
 ![TIA Portal](images/tiaportal.png)
 
-### How did I learn to program
+### How I learned to program
 I started programming in 2017 in Pascal to pass high school exams in ICT. Using this language was entertaining enough to give me a great impression of what programming is.Anyway, I wasn't sure of what I wanted to study and got into LAB Univerity of Applied Sciences studying mechanical engineering and automation. I quickly realized that math and physics wasn't exactly what was driving me to study on, but programming was, even though I respect all of them equally.
 <br/>
 <br/>
