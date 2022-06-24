@@ -41,10 +41,10 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 
 #### My LinkedIn and Website:
 <p align="left">
-    <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="blank">
+    <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="_blank"  style = "padding:2px">
         <img height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egor-frygin-a8324817a/"/>
     </a>
-    <a href="https://efrygin.000webhostapp.com/index.html" target="blank">
+    <a href="https://efrygin.000webhostapp.com/index.html" target="_blank" style = "padding:2px">
         <img src="images/logo.jpg" height="40px"/>
     </a>
 </p>
