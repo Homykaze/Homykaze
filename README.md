@@ -2,7 +2,7 @@
 ### About me
 Completed degree in mechanical engineering and automation, but decided to switch to IT. Did extensive elective coursework in computer science and programming.
 Full Stack development turned out to be quite a fun domain, which I currently study and work on daily. **Here are the technologies and languages I use:**
-#### Frontend design & programming
+#### Full Stack Development
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
 ![SASS](images/sass.png)
@@ -11,8 +11,6 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 ![TypeSctipt](images/ts.png)
 ![React.js](images/react.png)
 ![Redux.js](images/redux.png)
-
-#### Backend development
 ![Node.js](images/node.png)
 ![PostgreSQL](images/sql.png)
 ![Docker](images/docker.png)
