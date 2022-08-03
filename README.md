@@ -28,7 +28,7 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 #### How I learned to program
 • I started programming in 2017 in Pascal to pass high school exams in ICT in 2018. 
 <br/>
-• In the berinning of 2019 I came across a book "Jumping into C++" by Alex Allain, which got me to OOP, debugging, namespaces, STL by the end of 2019.
+• In the beginning of 2019 I came across a book "Jumping into C++" by Alex Allain, which got me to OOP, debugging, namespaces, STL by the end of 2019.
 <br/>
 • In 2020 read a book on algorithms by Aditya Y. Bhargava "Grokking algorithms", which gave me a great insight of recursion, data structures, efficiency, dynamic programming, and, of course, algorithms.
 <br/>
