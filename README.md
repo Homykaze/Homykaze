@@ -26,8 +26,8 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 ![TIA Portal](images/tiaportal.png)
 
 #### Books
-•  Alex Allain "Jumping into C++"
-•  Aditya Y. Bhargava "Grokking algorithms"
+- Alex Allain "Jumping into C++"
+- Aditya Y. Bhargava "Grokking algorithms"
 
 #### Courses
 - Advanced Database Programming - LUT (3 ECTS)
