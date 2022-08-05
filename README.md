@@ -25,15 +25,21 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 ![Pascal](images/pascal.png)
 ![TIA Portal](images/tiaportal.png)
 
-#### How I learned to program
-• I started programming in 2017 in Pascal to pass high school exams in ICT in 2018. 
-<br/>
-• In the beginning of 2019 I came across a book "Jumping into C++" by Alex Allain, which got me to OOP, debugging, namespaces, STL by the end of 2019.
-<br/>
-• In 2020 read a book on algorithms by Aditya Y. Bhargava "Grokking algorithms", which gave me a great insight of recursion, data structures, efficiency, dynamic programming, and, of course, algorithms.
-<br/>
-• During pandemic 2020 I had been freelancing on freelancehunt.com to sustain myself for about 6 months. Later I started studying React and many other web-programming technologies up until now.
+#### Books
+•  Alex Allain "Jumping into C++"
+•  Aditya Y. Bhargava "Grokking algorithms"
 
+#### Courses
+Advanced Database Programming - LUT (3 ECTS)
+Microprocessors - Metropolia UAS (5 ECTS)
+Game Design with Unity - LUT (3 ECTS)
+Programmable Logic Controllers - LAB UAS (4 ECTS)
+C++ Programming - Metropolia UAS (3 ECTS)
+React.js Fundamentals - Metropolia UAS (3 ECTS)
+Robotics - LAB UAS (3 ECTS)
+C Programming - Metropolia UAS (3 ECTS)
+Sensors - LAB UAS (4 ECTS)
+Discrete Mathematics - Metropolia UAS (3 ECTS)
 
 #### My LinkedIn and Website:
 <p align="left">
