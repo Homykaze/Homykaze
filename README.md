@@ -30,16 +30,16 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 •  Aditya Y. Bhargava "Grokking algorithms"
 
 #### Courses
-Advanced Database Programming - LUT (3 ECTS)
-Microprocessors - Metropolia UAS (5 ECTS)
-Game Design with Unity - LUT (3 ECTS)
-Programmable Logic Controllers - LAB UAS (4 ECTS)
-C++ Programming - Metropolia UAS (3 ECTS)
-React.js Fundamentals - Metropolia UAS (3 ECTS)
-Robotics - LAB UAS (3 ECTS)
-C Programming - Metropolia UAS (3 ECTS)
-Sensors - LAB UAS (4 ECTS)
-Discrete Mathematics - Metropolia UAS (3 ECTS)
+- Advanced Database Programming - LUT (3 ECTS)
+- Microprocessors - Metropolia UAS (5 ECTS)
+- Game Design with Unity - LUT (3 ECTS)
+- Programmable Logic Controllers - LAB UAS (4 ECTS)
+- C++ Programming - Metropolia UAS (3 ECTS)
+- React.js Fundamentals - Metropolia UAS (3 ECTS)
+- Robotics - LAB UAS (3 ECTS)
+- C Programming - Metropolia UAS (3 ECTS)
+- Sensors - LAB UAS (4 ECTS)
+- Discrete Mathematics - Metropolia UAS (3 ECTS)
 
 #### My LinkedIn and Website:
 <p align="left">
