@@ -1,7 +1,6 @@
 ## Hello, I'm Egor! Full Stack developer.
 ### About me
-Completed degree in mechanical engineering and automation, but decided to switch to IT. Did extensive elective coursework in computer science and programming.
-Full Stack development turned out to be quite a fun domain, which I currently study and work on daily. **Here are the technologies and languages I use:**
+Completed a degree in Mechanical Engineering and Automation, but did extensive elective coursework in programming and computer science, so here are the tools that I use:
 #### Full Stack Development
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
@@ -34,10 +33,9 @@ Full Stack development turned out to be quite a fun domain, which I currently st
 - Microprocessors - Metropolia UAS (5 ECTS)
 - Game Design with Unity - LUT (3 ECTS)
 - Programmable Logic Controllers - LAB UAS (4 ECTS)
-- C++ Programming - Metropolia UAS (3 ECTS)
+- C/C++ Programming - Metropolia UAS (6 ECTS)
 - React.js Fundamentals - Metropolia UAS (3 ECTS)
 - Robotics - LAB UAS (3 ECTS)
-- C Programming - Metropolia UAS (3 ECTS)
 - Sensors - LAB UAS (4 ECTS)
 - Discrete Mathematics - Metropolia UAS (3 ECTS)
 
