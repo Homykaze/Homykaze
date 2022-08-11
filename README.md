@@ -1,7 +1,7 @@
 ### Hello, I'm Egor! Full Stack developer.
 #### About me
 Completed a degree in Mechanical Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full stack development. Tools that I use:
-#### Full Stack Development
+#### Full Stack Development, Software development & Robotics
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
 ![SASS](images/sass.png)
@@ -13,8 +13,6 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![Node.js](images/node.png)
 ![PostgreSQL](images/sql.png)
 ![Docker](images/docker.png)
-
-#### Software development & Robotics
 ![C](images/c.png)
 ![C++](images/cpp.png)
 ![Java](images/java.png)
