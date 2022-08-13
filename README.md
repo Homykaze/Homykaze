@@ -22,8 +22,7 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![TIA Portal](images/tiaportal.png)
 
 #### Books
-- Alex Allain "Jumping into C++"
-- Aditya Y. Bhargava "Grokking algorithms"
+Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
 
 #### Courses
 - Advanced Database Programming - LUT (3 ECTS)
