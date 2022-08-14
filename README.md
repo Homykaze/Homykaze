@@ -31,8 +31,7 @@ Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
 - Programmable Logic Controllers - LAB UAS (4 ECTS)
 - C/C++ Programming - Metropolia UAS (6 ECTS)
 - React.js Fundamentals - Metropolia UAS (3 ECTS)
-- Robotics - LAB UAS (3 ECTS)
-- Sensors - LAB UAS (4 ECTS)
+- Robotics & Sensors - LAB UAS (7 ECTS)
 - Discrete Mathematics - Metropolia UAS (3 ECTS)
 
 #### My LinkedIn and Website:
