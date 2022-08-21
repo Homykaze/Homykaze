@@ -24,17 +24,7 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 #### Books
 Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
 
-#### Courses
-- Advanced Database Programming - LUT (3 ECTS)
-- Microprocessors - Metropolia UAS (5 ECTS)
-- Game Design with Unity - LUT (3 ECTS)
-- Programmable Logic Controllers - LAB UAS (4 ECTS)
-- C/C++ Programming - Metropolia UAS (6 ECTS)
-- React.js Fundamentals - Metropolia UAS (3 ECTS)
-- Robotics & Sensors - LAB UAS (7 ECTS)
-- Discrete Mathematics - Metropolia UAS (3 ECTS)
-
-#### My LinkedIn and Website:
+#### Completed courses can be found on my LinkedIn and Website:
 <p align="left">
     <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="_blank"  style = "padding:2px">
         <img height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egor-frygin-a8324817a/"/>
