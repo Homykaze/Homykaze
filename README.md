@@ -1,5 +1,4 @@
-### Hello, I'm Egor! Full Stack developer.
-#### About me
+#### Hello, I'm Egor! Full Stack developer.
 Completed a degree in Mechanical Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full stack development. Tools that I use:
 #### Full Stack Development, Software development & Robotics
 ![HTML5](images/html.png)
@@ -20,10 +19,8 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![Arduino](images/arduino.png)
 ![Pascal](images/pascal.png)
 ![TIA Portal](images/tiaportal.png)
-
 #### Books
 Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
-
 #### Completed courses can be found on my LinkedIn and Website:
 <p align="left">
     <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="_blank"  style = "padding:2px">
