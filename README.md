@@ -20,6 +20,7 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![Pascal](images/pascal.png)
 ![TIA Portal](images/tiaportal.png)
 <br>
+
 Books read: Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
 #### Completed courses can be found on my LinkedIn and Website:
 <p align="left">
