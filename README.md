@@ -21,7 +21,7 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![TIA Portal](images/tiaportal.png)
 <br>
 
-Books read: Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
+Programming books read: Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms"
 #### Completed courses can be found on my LinkedIn and Website:
 <p align="left">
     <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="_blank"  style = "padding:2px">
