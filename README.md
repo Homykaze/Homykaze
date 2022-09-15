@@ -1,5 +1,5 @@
 ### Hello, I'm Egor! Full Stack & Software developer.
-Completed a degree in Mechanical Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full stack development. Tools that I use in domains of Full Stack Development, Software development & Robotics:
+Completed a degree in Mechanical Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full stack development. Tools that I use in domains of Full Stack Development, Software Engineering & Robotics:
 <br>
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
