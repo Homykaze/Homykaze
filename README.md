@@ -1,6 +1,11 @@
 ### Hello, I'm Egor! Full Stack & Software developer.
 Completed a degree in Mechanical Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full stack development. Have solid C++ programming background, experience with embedded systems, and basics of using graphics interfaces: OpenGL. Tools that I use in domains of Full Stack Development, Software Engineering & Robotics:
 <br>
+![C](images/c.png)
+![C++](images/cpp.png)
+![OpenGL](images/opengl.png)
+![Arduino](images/arduino.png)
+![Docker](images/docker.png)
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
 ![SASS](images/sass.png)
@@ -11,12 +16,8 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![Redux.js](images/redux.png)
 ![Node.js](images/node.png)
 ![PostgreSQL](images/sql.png)
-![Docker](images/docker.png)
-![C](images/c.png)
-![C++](images/cpp.png)
 ![Java](images/java.png)
 ![Android](images/android.png)
-![Arduino](images/arduino.png)
 ![Pascal](images/pascal.png)
 ![TIA Portal](images/tiaportal.png)
 <br>
