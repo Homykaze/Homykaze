@@ -5,7 +5,10 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![C++](images/cpp.png)
 ![OpenGL](images/opengl.png)
 ![Arduino](images/arduino.png)
+![Android](images/android.png)
 ![Docker](images/docker.png)
+![Pascal](images/pascal.png)
+![Java](images/java.png)
 ![HTML5](images/html.png)
 ![CSS3](images/css.png)
 ![SASS](images/sass.png)
@@ -16,9 +19,6 @@ Completed a degree in Mechanical Engineering and Automation, did extensive elect
 ![Redux.js](images/redux.png)
 ![Node.js](images/node.png)
 ![PostgreSQL](images/sql.png)
-![Java](images/java.png)
-![Android](images/android.png)
-![Pascal](images/pascal.png)
 ![TIA Portal](images/tiaportal.png)
 <br>
 
