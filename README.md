@@ -1,5 +1,5 @@
 ### Hello, I'm Egor! Full Stack & Software developer.
-Completed a degree in Mechanical Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full stack development. Have solid C++ programming background, experience with embedded systems, and basics of using graphics interfaces: OpenGL. Tools that I use in domains of Full Stack Development, Software Engineering & Robotics:
+Completed a degree in Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full Stack development and DevOps. Have solid C++ programming background, experience with embedded systems, and basics of using graphics interfaces: OpenGL. Tools that I use in domains of Full Stack Development, Software Engineering & Robotics:
 <br>
 ![C](images/c.png)
 ![C++](images/cpp.png)
