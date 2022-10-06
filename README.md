@@ -1,6 +1,6 @@
 ### Hello, I'm Egor! Software engineer.
 Completed a degree in Engineering and Automation, did extensive elective coursework in programming and computer science, currently learning Full Stack development and DevOps. Have solid C++ programming background, experience with embedded systems, and basics of using graphics interfaces: OpenGL. Tools that I use in domains of Full Stack Development, Software Engineering & Robotics:
-<br>
+
 ![C](images/c.png)
 ![C++](images/cpp.png)
 ![OpenGL](images/opengl.png)
@@ -20,7 +20,6 @@ Completed a degree in Engineering and Automation, did extensive elective coursew
 ![Node.js](images/node.png)
 ![PostgreSQL](images/sql.png)
 ![TIA Portal](images/tiaportal.png)
-<br>
 
 Programming books read: Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms". Completed courses can be found on my LinkedIn and Website:
 <p align="left">
