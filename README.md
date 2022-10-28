@@ -21,7 +21,7 @@ Completed a degree in Engineering and Automation, did extensive elective coursew
 ![PostgreSQL](images/sql.png)
 ![TIA Portal](images/tiaportal.png)
 
-Programming books read: Alex Allain "Jumping into C++" | Aditya Y. Bhargava "Grokking algorithms". Completed courses can be found on my LinkedIn and Website:
+Completed courses can be found on my LinkedIn and Website:
 <p align="left">
     <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="_blank"  style = "padding:2px">
         <img height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egor-frygin-a8324817a/"/>
