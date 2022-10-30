@@ -5,9 +5,9 @@ Completed a degree in Engineering and Automation, did extensive elective coursew
 
 Completed courses can be found on my LinkedIn and Website:
 <a href="https://www.linkedin.com/in/egor-frygin-a8324817a/" target="_blank"  style = "padding:2px">
-    <img height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egor-frygin-a8324817a/"/>
+    <img height="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egor-frygin-a8324817a/"/>
 </a>
 <a href="https://homykaze.github.io/index.html" target="_blank" style = "padding:2px">
-    <img src="images/logo.jpg" height="30px"/>
+    <img src="images/logo.jpg" height="20px"/>
 </a>
 
